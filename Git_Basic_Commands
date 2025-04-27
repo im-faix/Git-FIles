@@ -26,3 +26,6 @@ git remote -v : to list all the remote alias name .
 git remote remove aliasname : used to remove remote repo connection
 
 
+git clone <remote_url> : used to clone or making a copy of entire remote repository
+
+
