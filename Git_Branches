@@ -1,0 +1,21 @@
+git branch : used to list branches
+
+git branch branch_name : used to create a new Branch
+
+git switch branchName : used to switch into a branch
+
+git checkout -b branchName : used to creata and switch into a branch
+
+git branch -d branchName : used to delete a branch 
+
+git branch -r : used to list remote repostiory connected to branchs
+
+git branch -a : used to list all branches
+
+git branch -m newName : used to rename the current Branch
+
+git branch -m oldNamem newName : used to rename any branch Name
+
+git push alias -d branchName : to deleta a branch 
+
+git pull aliasname branchName : used to fetch and merge the commits and changes from the branch
