@@ -1,0 +1,28 @@
+git init : used to initialize a empty git repository
+
+git add filename : used to add a file from working directory to staging area.
+   or for all files to be committed at a time use ( git add . or git add -A )
+
+git commit -m "Message" : used to commit the changes from staging area to local repository.
+
+git config user.name "user_name" 
+git config user.email "user.email " : used to configure username as well as email
+
+
+git remote add aliasname <remote_url> :used to make a connection between local repository and
+remote repository.
+
+
+git push alias branch_name : used to push the changes or commits from local repostory to 
+remote repository
+
+
+git status :  to checkweather the files are in which area
+
+git log : which is used to see the committs.
+
+git remote -v : to list all the remote alias name .
+
+
+
+
