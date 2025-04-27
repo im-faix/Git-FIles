@@ -23,6 +23,6 @@ git log : which is used to see the committs.
 
 git remote -v : to list all the remote alias name .
 
-
+git remote remove aliasname : used to remove remote repo connection
 
 
