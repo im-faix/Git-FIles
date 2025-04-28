@@ -1,0 +1,6 @@
+ls - list the files and directories
+pwd = print presemt working directory
+touch filename - create a file
+cd dirname - change the directory
+clear   - to clear the CMD 
+rm -rf file/Dir - to delete the file and the directory
